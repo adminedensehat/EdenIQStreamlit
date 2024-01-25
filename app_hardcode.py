@@ -34,7 +34,7 @@ prostate_vol_dir = os.path.join(directory, "ProstateVolumes")
 
 ######################## STREAMLIT ##########################
 
-image = Image.open('EdenEye.png')
+image = Image.open('EdenIQ.png')
 st.image(image)
 st.markdown("<h1 style='text-align: center; color: white;'>Tuberculosis & Pneumonia Detector</h1>", unsafe_allow_html=True)
 
