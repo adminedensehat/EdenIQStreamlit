@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    jnatakusuma:
+      email: admin@edensehat.com
+      name: admin
+      password: $2b$12$GNDxFKRRCZX/ZX19mgZr/OggzxcEktFAP/yKekSpOEG6d0AZ3ELXW
+cookie:
+  expiry_days: 1
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - admin@edensehat.com
